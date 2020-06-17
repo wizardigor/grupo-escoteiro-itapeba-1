@@ -7,3 +7,7 @@ Site para o Grupo Escoteiro Itapeba em desenvolvimento por meio de projeto de ex
 ## Versão de testes
 
 [escoteiro-itapeba.netlify.com](https://escoteiro-itapeba.netlify.com)
+
+## VERSÃO FINAL EM PRODUÇÃO...
+
+https://www.geitapeba.com.br/
